@@ -1,24 +1,30 @@
 {
-	"name": "eslint-dev-environment",
-	"version": "1.0.0",
-	"description": "Code to be used to start the Quiz 10 exercise.",
-	"main": "main.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Chaitra276/eslint-dev-environment.git"
-	},
-	"author": "",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/Chaitra276/eslint-dev-environment/issues"
-	},
-	"homepage": "https://github.com/Chaitra276/eslint-dev-environment#readme",
-	"devDependencies": {
-		"eslint": "^7.13.0",
-		"eslint-config-airbnb-base": "^14.2.1",
-		"eslint-plugin-import": "^2.22.1"
-	}
+        "name": "eslint-dev-environment",
+        "version": "1.0.0",
+        "description": "Code to be used to start the Quiz 10 exercise.",
+        "main": "main.js",
+        "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1"
+        },
+        "repository": {
+                "type": "git",
+                "url": "git+https://github.com/Chaitra276/eslint-dev-environment.git"
+        },
+        "author": "",
+        "license": "ISC",
+        "bugs": {
+                "url": "https://github.com/Chaitra276/eslint-dev-environment/issues"
+        },
+        "homepage": "https://github.com/Chaitra276/eslint-dev-environment#readme",
+        "devDependencies": {
+                "babel-eslint": "^10.1.0",
+                "eslint": "^7.13.0",
+                "eslint-config-airbnb-base": "^14.2.1",
+                "eslint-config-prettier": "^6.15.0",
+                "eslint-plugin-import": "^2.22.1",
+                "eslint-plugin-prettier": "^3.1.4",
+                "prettier": "^2.1.2"
+        },
+        "dependencies": {},
+        "keywords": []
 }
